@@ -7,6 +7,7 @@
     bottom: 0;
     color: rgb(61, 61, 61);
     z-index: 999;
+    font-family: monospace;
 }
 .author a {
     color: rgb(89, 89, 89);
